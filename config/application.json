@@ -9,7 +9,7 @@
   "controlPosition": "bottom-right",
   "splitDirection": "horizontal",
   "insetBasemap": null,
-  "locationColor": "333",
+  "locationColor": "999",
   "oauthappid": "",
   "proxyUrl": "",
   "search": true,
