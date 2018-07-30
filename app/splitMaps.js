@@ -120,7 +120,7 @@ define(["require", "exports"], function (require, exports) {
         // to be passed as a number.
         var minSize = getOption(options, 'minSize', 100);
         var minSizes = Array.isArray(minSize) ? minSize : ids.map(function () { return minSize; });
-        var gutterSize = getOption(options, 'gutterSize', 10);
+        var gutterSize = getOption(options, 'gutterSize', 30);
         var snapOffset = getOption(options, 'snapOffset', 30);
         var direction = getOption(options, 'direction', HORIZONTAL);
         var cursor = getOption(options, 'cursor', direction === HORIZONTAL ? 'ew-resize' : 'ns-resize');
