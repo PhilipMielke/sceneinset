@@ -35,7 +35,7 @@
   ],
   "webMap": {
     "default": "e75969d0d7b24f4fba8679316255bb46",
-    "fetch": false
+    "fetch": true
   },
   "webScene": {
     "default": "a12ffc0f3c044336b99ec302d764c87d",
